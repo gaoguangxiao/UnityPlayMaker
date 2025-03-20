@@ -1,0 +1,20 @@
+<linker>
+	<assembly fullname="PlayMaker">
+		<type fullname="HutongGames.PlayMaker.ActionData" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.Fsm" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.Fsm/EditorFlags" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.FsmBool" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.FsmEvent" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.FsmFloat" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.FsmGameObject" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.FsmInt" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.FsmObject" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.FsmOwnerDefault" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.FsmRect" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.FsmState" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.FsmString" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.FsmTransition" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.FsmVariables" preserve="nothing" serialized="true"/>
+		<type fullname="HutongGames.PlayMaker.UiEvents" preserve="nothing" serialized="true"/>
+	</assembly>
+</linker>
